@@ -1,3 +1,4 @@
+Mod to resolve: "Login while the server is in online mode to be able to login while it is in offline mode."
 ##############
 
 **How to use**
